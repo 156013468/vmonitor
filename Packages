@@ -1,0 +1,17 @@
+Package: com.vmonitor.tweak
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Js <156013468@qq.com>
+Installed-Size: 688
+Depends: firmware (>= 16.0), ellekit (>= 1.0)
+Filename: debs/com.vmonitor.tweak_2.3_iphoneos-arm64.deb
+Size: 84856
+MD5sum: 044124ce317df7157d0e8bc131fb626b
+SHA1: 9adc3b6127e778e1afde166cc008de31f1413e18
+SHA256: 10f30fba7db772d71e9980f1e808bac1be1d7b17de3b3b1effe004ddebb573f0
+Section: Tweaks
+Priority: optional
+Description: V免签配套iOS插件 - 微信/支付宝实时感知收款通知并回调服务端,具有与服务器心跳同步,查看日志等功能,「仅供个人收款对账、禁止商用/非法用途」后果由使用者承�
+Author: Js <156013468@qq.com>
+Name: V免签(VMQ Monitor)
+

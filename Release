@@ -1,0 +1,8 @@
+Origin: VMonitor Repo
+Label: VMonitor Repo
+Suite: stable
+Version: 2.3
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: V免签监控插件个人源 - VMQ Monitor for Dopamine/Palera1n rootless

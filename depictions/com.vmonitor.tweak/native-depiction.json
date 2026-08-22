@@ -1,0 +1,53 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://你的用户名.github.io/vmonitor-repo/depictions/com.vmonitor.tweak/header.png",
+  "tintColor": "#2E86DE",
+  "class": "DepictionTabView",
+  "tabs": [
+    {
+      "tabname": "详情",
+      "view": {
+        "class": "DepictionStackView",
+        "views": [
+          {
+            "class": "DepictionMarkdownView",
+            "markdown": "# V免签监控插件\n个人合规收款对账用的 iOS 监控插件，实时检测微信/支付宝收款通知并回调自建服务端。\n\n- 仅限个人对账，不篡改支付结果\n- 不用于套现 / 赌博 / 洗钱等非法用途\n- 需在 Dopamine / Palera1n 等 rootless 越狱环境使用",
+            "useSpacing": true
+          },
+          {
+            "class": "DepictionSeparatorView"
+          },
+          {
+            "class": "DepictionTableTextView",
+            "title": "依赖",
+            "text": "iOS >= 16.0 · ElleKit >= 1.0"
+          },
+          {
+            "class": "DepictionTableTextView",
+            "title": "架构",
+            "text": "iphoneos-arm64（rootless）"
+          },
+          {
+            "class": "DepictionTableTextView",
+            "title": "源码 / 问题反馈",
+            "text": "https://github.com/你的用户名/VMonitor-Tweak"
+          }
+        ]
+      }
+    },
+    {
+      "tabname": "截图",
+      "view": {
+        "class": "DepictionStackView",
+        "views": [
+          {
+            "class": "DepictionImageView",
+            "URL": "https://你的用户名.github.io/vmonitor-repo/depictions/com.vmonitor.tweak/screenshot1.png",
+            "width": 828,
+            "height": 1792
+          }
+        ]
+      }
+    }
+  ]
+}
