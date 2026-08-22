@@ -1,11 +1,10 @@
 Package: com.vmonitor.tweak
 Name: V免签 (VMQ Monitor)
-Version: 1.0.0
+Version: 2.3
 Architecture: iphoneos-arm64
 Description: V免签配套iOS监控插件。在设备本地实时感知微信/支付宝收款通知，具有与服务器心跳同步,查看日志等功能。
- 将合规的对账信息回调到用户自建的服务端，用于个人收款对账。
-「本插件仅供个人收款对账、禁止商用/非法用途」后果由使用者承担
- 关键词：vmq、v免签、wechat、alipay、rootless。
+将合规的对账信息回调到用户自建的服务端，用于个人收款对账「本插件仅供个人收款对账、禁止商用/非法用途」后果由使用者承担。
+关键词：vmq、v免签、wechat、alipay、rootless。
 Maintainer: Js <156013468@qq.com>
 Author: Js <156013468@qq.com>
 Section: Tweaks

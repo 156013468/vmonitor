@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://你的用户名.github.io/vmonitor-repo/depictions/com.vmonitor.tweak/header.png",
+  "headerImage": "https://156013468.github.io/vmonitor/depictions/com.vmonitor.tweak/header.png",
   "tintColor": "#2E86DE",
   "class": "DepictionTabView",
   "tabs": [
@@ -30,7 +30,7 @@
           {
             "class": "DepictionTableTextView",
             "title": "源码 / 问题反馈",
-            "text": "https://github.com/你的用户名/VMonitor-Tweak"
+            "text": "https://github.com/156013468/VMonitor"
           }
         ]
       }
@@ -42,7 +42,7 @@
         "views": [
           {
             "class": "DepictionImageView",
-            "URL": "https://你的用户名.github.io/vmonitor-repo/depictions/com.vmonitor.tweak/screenshot1.png",
+            "URL": "https://156013468.github.io/vmonitor/depictions/com.vmonitor.tweak/screenshot1.png",
             "width": 828,
             "height": 1792
           }
